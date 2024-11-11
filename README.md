@@ -1,4 +1,4 @@
-# BEV-CV
+# BEV-CV - (Processing codebase ASAP)
 
 This repository is the official implementation of [BEV-CV: Birds-Eye-View Transform for Cross-View Geo-Localisation](https://arxiv.org/abs/2312.15363). 
 
