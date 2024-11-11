@@ -1,6 +1,6 @@
 # BEV-CV - (Processing codebase ASAP)
 
-This repository is the official implementation of [BEV-CV: Birds-Eye-View Transform for Cross-View Geo-Localisation](https://arxiv.org/abs/2312.15363). 
+This repository is the official implementation of [BEV-CV: Birds-Eye-View Transform for Cross-View Geo-Localisation](https://arxiv.org/abs/2312.15363), IROS 2024. 
 
 ![network](https://github.com/user-attachments/assets/86c96ec2-c599-4bac-8d58-01d6fb30efe5)
 
@@ -13,6 +13,13 @@ pip install -r requirements.txt
 ```
 
 ### Datasets - CVUSA & CVACT
+We use two existing dataset to do the experiments
+
+  CVUSA: sampled across the US, ground-level panoramas and corresponding satellite images.
+         The dataset can be accessed from https://github.com/viibridges/crossnet
+
+  CVACT: sampled across Australia, ground-level panoramas and corresponding satellite images.
+         The dataset can be accessed from https://github.com/Liumouliu/OriCNN
 
 
 ## Training
@@ -56,6 +63,8 @@ Our model achieves the following performance on :
 >📋  Include a table of results from your paper, and link back to the leaderboard for clarity and context. If your main result is a figure, include that figure and link to the command or notebook to reproduce it. 
 
 ## Citation
+This work is published in IROS 2024.
+If you are interested in our work and/or use our code, please include the following citation in your work:
 
 ```
   @INPROCEEDINGS{bevcv,
