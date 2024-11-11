@@ -2,7 +2,7 @@
 
 This repository is the official implementation of [BEV-CV: Birds-Eye-View Transform for Cross-View Geo-Localisation](https://arxiv.org/abs/2312.15363). 
 
->📋  Optional: include a graphic explaining your approach/main result, bibtex entry, link to demos, blog posts and tutorials
+![network](https://github.com/user-attachments/assets/86c96ec2-c599-4bac-8d58-01d6fb30efe5)
 
 ## Requirements
 
@@ -12,7 +12,8 @@ To install requirements:
 pip install -r requirements.txt
 ```
 
->📋  Describe how to set up the environment, e.g. pip/conda/docker commands, download datasets, etc...
+### Datasets - CVUSA & CVACT
+
 
 ## Training
 
