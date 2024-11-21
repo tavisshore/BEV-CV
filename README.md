@@ -1,6 +1,6 @@
 <div align="center">    
  
-# BEV-CV: Birds-Eye-View Transform for Cross-View Geo-Localisation
+# 🦜🌍 BEV-CV: Birds-Eye-View Transform for Cross-View Geo-Localisation 📡🗺️
 <p align="middle">
  <a href="https://tavisshore.co.uk/">Tavis Shore</a>
  <a href="https://personalpages.surrey.ac.uk/s.hadfield/biography.html">Simon Hadfield</a>
@@ -57,7 +57,7 @@ Cross-view image matching for geo-localisation is a challenging problem due to t
 ```
 ## 📗 Related Works
 
-### 🦜 [SpaGBOL: Spatial-Graph-Based Orientated Localisation](https://github.com/tavisshore/SpaGBOL)
+### 🍝 [SpaGBOL: Spatial-Graph-Based Orientated Localisation](https://github.com/tavisshore/SpaGBOL)
 [![Paper](http://img.shields.io/badge/ArXiv-2312.15363-B31B1B.svg)](https://arxiv.org/abs/2312.15363)
 [![Conference](http://img.shields.io/badge/IROS-2024-4b44ce.svg)](https://wacv2025.thecvf.com/)
 [![Project Page](http://img.shields.io/badge/Project-Page-green)](https://tavisshore.co.uk/spagbol/)
