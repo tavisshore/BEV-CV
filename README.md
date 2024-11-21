@@ -32,19 +32,27 @@ Cross-view image matching for geo-localisation is a challenging problem due to t
 
 🚧 Under Construction
 
+#### Data Pre-Processing
 ```
 
 ```
 
+#### Submodule Pretraining
 ```
 
 ```
 
+#### BEV-CV Training
 ```
 
 ```
 
-## BEV-CV: Evaluation
+#### BEV-CV Evaluation
+```
+
+```
+
+## BEV-CV: Benchmark Results
 
 <table class="tg"><thead>
   <tr>
