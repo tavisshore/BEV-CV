@@ -18,9 +18,8 @@
 [![Project Page](http://img.shields.io/badge/Project-Page-green)](https://tavisshore.co.uk/bevcv/)
 [![License](https://img.shields.io/badge/license-MIT-blue)]()
 
-![new_neural](https://github.com/user-attachments/assets/84215eee-31b0-4ca6-871e-cacf329c6347#gh-light-mode-only)
-![spagbol_diagram](https://github.com/user-attachments/assets/4f3d921f-c24b-409f-a2e7-c9669a4d98a6#gh-dark-mode-only)
-
+![bevcv_dark_mode](https://github.com/user-attachments/assets/159bceea-220d-4b12-a5aa-feb3baea7d4e#gh-dark-mode-only)
+![bevcv](https://github.com/user-attachments/assets/08c60b11-fd12-46ab-aec6-75a53b4d7b8d#gh-light-mode-only)
 
 </div>
  
