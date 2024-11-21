@@ -421,13 +421,5 @@ Cross-view image matching for geo-localisation is a challenging problem due to t
 [![Conference](http://img.shields.io/badge/WACV-2025-4b44ce.svg)](https://wacv2025.thecvf.com/)
 [![Project Page](http://img.shields.io/badge/Project-Page-green)](https://tavisshore.co.uk/spagbol/)
 [![GitHub](https://img.shields.io/badge/GitHub-SpaGBOL-%23121011.svg?logo=github&logoColor=white)](https://github.com/tavisshore/spagbol)
-```
-@InProceedings{Shore_2025_WACV,
-    author    = {Shore, Tavis and Mendez, Oscar and Hadfield, Simon},
-    title     = {SpaGBOL: Spatial-Graph-Based Orientated Localisation},
-    booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
-    month     = {February},
-    year      = {2025}
-}
-```
+
 
