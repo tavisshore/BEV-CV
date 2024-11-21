@@ -45,345 +45,367 @@ Cross-view image matching for geo-localisation is a challenging problem due to t
 ```
 
 ## BEV-CV: Evaluation
-<table><thead>
+
+
+
+<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg"><thead>
   <tr>
-    <th>Model</th>
-    <th>Orientation<br>Aware</th>
-    <th>R@1</th>
-    <th>R@5</th>
-    <th>R@10</th>
-    <th>R@1%</th>
-    <th>R@1</th>
-    <th>R@5</th>
-    <th>R@10</th>
-    <th>R@1\%</th>
+    <th class="tg-c3ow">Model</th>
+    <th class="tg-c3ow">Orientation<br>Aware</th>
+    <th class="tg-c3ow">R@1</th>
+    <th class="tg-c3ow">R@5</th>
+    <th class="tg-c3ow">R@10</th>
+    <th class="tg-c3ow">R@1%</th>
+    <th class="tg-c3ow">R@1</th>
+    <th class="tg-c3ow">R@5</th>
+    <th class="tg-c3ow">R@10</th>
+    <th class="tg-c3ow">R@1\%</th>
   </tr></thead>
 <tbody>
   <tr>
-    <td></td>
-    <td></td>
-    <td colspan="4">CVUSA 90</td>
-    <td colspan="4">CVUSA 70</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow" colspan="4">CVUSA 90</td>
+    <td class="tg-c3ow" colspan="4">CVUSA 70</td>
   </tr>
   <tr>
-    <td>CVM</td>
-    <td>\xmark</td>
-    <td>2.76</td>
-    <td>10.11</td>
-    <td>16.74</td>
-    <td>55.49</td>
-    <td>2.62</td>
-    <td>9.30</td>
-    <td>15.06</td>
-    <td>21.77</td>
+    <td class="tg-c3ow">CVM</td>
+    <td class="tg-c3ow">\xmark</td>
+    <td class="tg-c3ow">2.76</td>
+    <td class="tg-c3ow">10.11</td>
+    <td class="tg-c3ow">16.74</td>
+    <td class="tg-c3ow">55.49</td>
+    <td class="tg-c3ow">2.62</td>
+    <td class="tg-c3ow">9.30</td>
+    <td class="tg-c3ow">15.06</td>
+    <td class="tg-c3ow">21.77</td>
   </tr>
   <tr>
-    <td>CVFT</td>
-    <td>\xmark</td>
-    <td>4.80</td>
-    <td>14.84</td>
-    <td>23.18</td>
-    <td>61.23</td>
-    <td>3.79</td>
-    <td>12.44</td>
-    <td>19.33</td>
-    <td>55.56</td>
+    <td class="tg-c3ow">CVFT</td>
+    <td class="tg-c3ow">\xmark</td>
+    <td class="tg-c3ow">4.80</td>
+    <td class="tg-c3ow">14.84</td>
+    <td class="tg-c3ow">23.18</td>
+    <td class="tg-c3ow">61.23</td>
+    <td class="tg-c3ow">3.79</td>
+    <td class="tg-c3ow">12.44</td>
+    <td class="tg-c3ow">19.33</td>
+    <td class="tg-c3ow">55.56</td>
   </tr>
   <tr>
-    <td>DSM</td>
-    <td>\xmark</td>
-    <td>16.19</td>
-    <td>31.44</td>
-    <td>39.85</td>
-    <td>71.13</td>
-    <td>8.78</td>
-    <td>19.90</td>
-    <td>27.30</td>
-    <td>61.20</td>
+    <td class="tg-c3ow">DSM</td>
+    <td class="tg-c3ow">\xmark</td>
+    <td class="tg-c3ow">16.19</td>
+    <td class="tg-c3ow">31.44</td>
+    <td class="tg-c3ow">39.85</td>
+    <td class="tg-c3ow">71.13</td>
+    <td class="tg-c3ow">8.78</td>
+    <td class="tg-c3ow">19.90</td>
+    <td class="tg-c3ow">27.30</td>
+    <td class="tg-c3ow">61.20</td>
   </tr>
   <tr>
-    <td>L2LTR</td>
-    <td>\xmark</td>
-    <td>26.92</td>
-    <td>50.49</td>
-    <td>60.41</td>
-    <td>86.88</td>
-    <td>13.95</td>
-    <td>33.07</td>
-    <td>43.86</td>
-    <td>77.65</td>
+    <td class="tg-c3ow">L2LTR</td>
+    <td class="tg-c3ow">\xmark</td>
+    <td class="tg-c3ow">26.92</td>
+    <td class="tg-c3ow">50.49</td>
+    <td class="tg-c3ow">60.41</td>
+    <td class="tg-c3ow">86.88</td>
+    <td class="tg-c3ow">13.95</td>
+    <td class="tg-c3ow">33.07</td>
+    <td class="tg-c3ow">43.86</td>
+    <td class="tg-c3ow">77.65</td>
   </tr>
   <tr>
-    <td>TransGeo</td>
-    <td>\xmark</td>
-    <td>30.12</td>
-    <td>54.18</td>
-    <td>63.96</td>
-    <td>89.18</td>
-    <td>16.43</td>
-    <td>37.28</td>
-    <td>48.02</td>
-    <td>80.75</td>
+    <td class="tg-c3ow">TransGeo</td>
+    <td class="tg-c3ow">\xmark</td>
+    <td class="tg-c3ow">30.12</td>
+    <td class="tg-c3ow">54.18</td>
+    <td class="tg-c3ow">63.96</td>
+    <td class="tg-c3ow">89.18</td>
+    <td class="tg-c3ow">16.43</td>
+    <td class="tg-c3ow">37.28</td>
+    <td class="tg-c3ow">48.02</td>
+    <td class="tg-c3ow">80.75</td>
   </tr>
   <tr>
-    <td>GeoDTR</td>
-    <td>\xmark</td>
-    <td>18.81</td>
-    <td>43.36</td>
-    <td>57.94</td>
-    <td>88.14</td>
-    <td>14.84</td>
-    <td>38.03</td>
-    <td>51.27</td>
-    <td>88.17</td>
+    <td class="tg-c3ow">GeoDTR</td>
+    <td class="tg-c3ow">\xmark</td>
+    <td class="tg-c3ow">18.81</td>
+    <td class="tg-c3ow">43.36</td>
+    <td class="tg-c3ow">57.94</td>
+    <td class="tg-c3ow">88.14</td>
+    <td class="tg-c3ow">14.84</td>
+    <td class="tg-c3ow">38.03</td>
+    <td class="tg-c3ow">51.27</td>
+    <td class="tg-c3ow">88.17</td>
   </tr>
   <tr>
-    <td>BEV-CV</td>
-    <td>\xmark</td>
-    <td>15.17</td>
-    <td>33.91</td>
-    <td>45.33</td>
-    <td>82.53</td>
-    <td>14.03</td>
-    <td>32.32</td>
-    <td>43.25</td>
-    <td>81.48</td>
+    <td class="tg-c3ow">BEV-CV</td>
+    <td class="tg-c3ow">\xmark</td>
+    <td class="tg-c3ow">15.17</td>
+    <td class="tg-c3ow">33.91</td>
+    <td class="tg-c3ow">45.33</td>
+    <td class="tg-c3ow">82.53</td>
+    <td class="tg-c3ow">14.03</td>
+    <td class="tg-c3ow">32.32</td>
+    <td class="tg-c3ow">43.25</td>
+    <td class="tg-c3ow">81.48</td>
   </tr>
   <tr>
-    <td>GAL</td>
-    <td>approx</td>
-    <td>22.54</td>
-    <td>44.36</td>
-    <td>54.17</td>
-    <td>84.59</td>
-    <td>15.20</td>
-    <td>32.86</td>
-    <td>42.06</td>
-    <td>75.21</td>
+    <td class="tg-c3ow">GAL</td>
+    <td class="tg-c3ow">approx</td>
+    <td class="tg-c3ow">22.54</td>
+    <td class="tg-c3ow">44.36</td>
+    <td class="tg-c3ow">54.17</td>
+    <td class="tg-c3ow">84.59</td>
+    <td class="tg-c3ow">15.20</td>
+    <td class="tg-c3ow">32.86</td>
+    <td class="tg-c3ow">42.06</td>
+    <td class="tg-c3ow">75.21</td>
   </tr>
   <tr>
-    <td>DSM</td>
-    <td>\cmark</td>
-    <td>33.66</td>
-    <td>51.70</td>
-    <td>59.68</td>
-    <td>82.46</td>
-    <td>20.88</td>
-    <td>36.99</td>
-    <td>44.70</td>
-    <td>71.10</td>
+    <td class="tg-c3ow">DSM</td>
+    <td class="tg-c3ow">\cmark</td>
+    <td class="tg-7btt">33.66</td>
+    <td class="tg-c3ow">51.70</td>
+    <td class="tg-c3ow">59.68</td>
+    <td class="tg-c3ow">82.46</td>
+    <td class="tg-c3ow">20.88</td>
+    <td class="tg-c3ow">36.99</td>
+    <td class="tg-c3ow">44.70</td>
+    <td class="tg-c3ow">71.10</td>
   </tr>
   <tr>
-    <td>L2LTR</td>
-    <td>\cmark</td>
-    <td>25.21</td>
-    <td>51.90</td>
-    <td>63.54</td>
-    <td>91.16</td>
-    <td>22.20</td>
-    <td>46.71</td>
-    <td>58.99</td>
-    <td>89.37</td>
+    <td class="tg-c3ow">L2LTR</td>
+    <td class="tg-c3ow">\cmark</td>
+    <td class="tg-c3ow">25.21</td>
+    <td class="tg-c3ow">51.90</td>
+    <td class="tg-c3ow">63.54</td>
+    <td class="tg-c3ow">91.16</td>
+    <td class="tg-c3ow">22.20</td>
+    <td class="tg-c3ow">46.71</td>
+    <td class="tg-c3ow">58.99</td>
+    <td class="tg-c3ow">89.37</td>
   </tr>
   <tr>
-    <td>TransGeo</td>
-    <td>\cmark</td>
-    <td>21.96</td>
-    <td>45.35</td>
-    <td>56.49</td>
-    <td>86.80</td>
-    <td>17.27</td>
-    <td>38.95</td>
-    <td>49.44</td>
-    <td>81.34</td>
+    <td class="tg-c3ow">TransGeo</td>
+    <td class="tg-c3ow">\cmark</td>
+    <td class="tg-c3ow">21.96</td>
+    <td class="tg-c3ow">45.35</td>
+    <td class="tg-c3ow">56.49</td>
+    <td class="tg-c3ow">86.80</td>
+    <td class="tg-c3ow">17.27</td>
+    <td class="tg-c3ow">38.95</td>
+    <td class="tg-c3ow">49.44</td>
+    <td class="tg-c3ow">81.34</td>
   </tr>
   <tr>
-    <td>GeoDTR</td>
-    <td>\cmark</td>
-    <td>15.21</td>
-    <td>39.32</td>
-    <td>52.27</td>
-    <td>88.72</td>
-    <td>14.00</td>
-    <td>35.28</td>
-    <td>47.77</td>
-    <td>86.39</td>
+    <td class="tg-c3ow">GeoDTR</td>
+    <td class="tg-c3ow">\cmark</td>
+    <td class="tg-c3ow">15.21</td>
+    <td class="tg-c3ow">39.32</td>
+    <td class="tg-c3ow">52.27</td>
+    <td class="tg-c3ow">88.72</td>
+    <td class="tg-c3ow">14.00</td>
+    <td class="tg-c3ow">35.28</td>
+    <td class="tg-c3ow">47.77</td>
+    <td class="tg-c3ow">86.39</td>
   </tr>
   <tr>
-    <td>BEV-CV</td>
-    <td>\cmark</td>
-    <td>32.11</td>
-    <td>58.36</td>
-    <td>69.06</td>
-    <td>92.99</td>
-    <td>27.40</td>
-    <td>52.94</td>
-    <td>64.47</td>
-    <td>90.94</td>
+    <td class="tg-c3ow">BEV-CV</td>
+    <td class="tg-c3ow">\cmark</td>
+    <td class="tg-c3ow">32.11</td>
+    <td class="tg-7btt">58.36</td>
+    <td class="tg-7btt">69.06</td>
+    <td class="tg-7btt">92.99</td>
+    <td class="tg-7btt">27.40</td>
+    <td class="tg-7btt">52.94</td>
+    <td class="tg-7btt">64.47</td>
+    <td class="tg-7btt">90.94</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td colspan="4">CVACT 90</td>
-    <td colspan="4">CVACT 70</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow" colspan="4">CVACT 90</td>
+    <td class="tg-c3ow" colspan="4">CVACT 70</td>
   </tr>
   <tr>
-    <td>CVM</td>
-    <td>\xmark</td>
-    <td>1.47</td>
-    <td>5.70</td>
-    <td>9.64</td>
-    <td>38.05</td>
-    <td>1.24</td>
-    <td>4.98</td>
-    <td>8.42</td>
-    <td>34.74</td>
+    <td class="tg-c3ow">CVM</td>
+    <td class="tg-c3ow">\xmark</td>
+    <td class="tg-c3ow">1.47</td>
+    <td class="tg-c3ow">5.70</td>
+    <td class="tg-c3ow">9.64</td>
+    <td class="tg-c3ow">38.05</td>
+    <td class="tg-c3ow">1.24</td>
+    <td class="tg-c3ow">4.98</td>
+    <td class="tg-c3ow">8.42</td>
+    <td class="tg-c3ow">34.74</td>
   </tr>
   <tr>
-    <td>CVFT</td>
-    <td>\xmark</td>
-    <td>1.85</td>
-    <td>6.28</td>
-    <td>10.54</td>
-    <td>39.25</td>
-    <td>1.49</td>
-    <td>5.13</td>
-    <td>8.19</td>
-    <td>34.59</td>
+    <td class="tg-c3ow">CVFT</td>
+    <td class="tg-c3ow">\xmark</td>
+    <td class="tg-c3ow">1.85</td>
+    <td class="tg-c3ow">6.28</td>
+    <td class="tg-c3ow">10.54</td>
+    <td class="tg-c3ow">39.25</td>
+    <td class="tg-c3ow">1.49</td>
+    <td class="tg-c3ow">5.13</td>
+    <td class="tg-c3ow">8.19</td>
+    <td class="tg-c3ow">34.59</td>
   </tr>
   <tr>
-    <td>DSM</td>
-    <td>\xmark</td>
-    <td>18.11</td>
-    <td>33.34</td>
-    <td>40.94</td>
-    <td>68.65</td>
-    <td>8.29</td>
-    <td>20.72</td>
-    <td>27.13</td>
-    <td>57.08</td>
+    <td class="tg-c3ow">DSM</td>
+    <td class="tg-c3ow">\xmark</td>
+    <td class="tg-c3ow">18.11</td>
+    <td class="tg-c3ow">33.34</td>
+    <td class="tg-c3ow">40.94</td>
+    <td class="tg-c3ow">68.65</td>
+    <td class="tg-c3ow">8.29</td>
+    <td class="tg-c3ow">20.72</td>
+    <td class="tg-c3ow">27.13</td>
+    <td class="tg-c3ow">57.08</td>
   </tr>
   <tr>
-    <td>L2LTR</td>
-    <td>\xmark</td>
-    <td>13.07</td>
-    <td>30.38</td>
-    <td>41.00</td>
-    <td>76.07</td>
-    <td>6.67</td>
-    <td>15.94</td>
-    <td>23.45</td>
-    <td>49.37</td>
+    <td class="tg-c3ow">L2LTR</td>
+    <td class="tg-c3ow">\xmark</td>
+    <td class="tg-c3ow">13.07</td>
+    <td class="tg-c3ow">30.38</td>
+    <td class="tg-c3ow">41.00</td>
+    <td class="tg-c3ow">76.07</td>
+    <td class="tg-c3ow">6.67</td>
+    <td class="tg-c3ow">15.94</td>
+    <td class="tg-c3ow">23.45</td>
+    <td class="tg-c3ow">49.37</td>
   </tr>
   <tr>
-    <td>TransGeo</td>
-    <td>\xmark</td>
-    <td>10.75</td>
-    <td>28.22</td>
-    <td>37.51</td>
-    <td>70.15</td>
-    <td>7.01</td>
-    <td>19.44</td>
-    <td>27.50</td>
-    <td>62.19</td>
+    <td class="tg-c3ow">TransGeo</td>
+    <td class="tg-c3ow">\xmark</td>
+    <td class="tg-c3ow">10.75</td>
+    <td class="tg-c3ow">28.22</td>
+    <td class="tg-c3ow">37.51</td>
+    <td class="tg-c3ow">70.15</td>
+    <td class="tg-c3ow">7.01</td>
+    <td class="tg-c3ow">19.44</td>
+    <td class="tg-c3ow">27.50</td>
+    <td class="tg-c3ow">62.19</td>
   </tr>
   <tr>
-    <td>GeoDTR</td>
-    <td>\xmark</td>
-    <td>26.53</td>
-    <td>53.26</td>
-    <td>64.59</td>
-    <td>91.13</td>
-    <td>16.87</td>
-    <td>40.22</td>
-    <td>53.13</td>
-    <td>87.92</td>
+    <td class="tg-c3ow">GeoDTR</td>
+    <td class="tg-c3ow">\xmark</td>
+    <td class="tg-c3ow">26.53</td>
+    <td class="tg-c3ow">53.26</td>
+    <td class="tg-c3ow">64.59</td>
+    <td class="tg-c3ow">91.13</td>
+    <td class="tg-c3ow">16.87</td>
+    <td class="tg-c3ow">40.22</td>
+    <td class="tg-c3ow">53.13</td>
+    <td class="tg-c3ow">87.92</td>
   </tr>
   <tr>
-    <td>BEV-CV</td>
-    <td>\xmark</td>
-    <td>4.14</td>
-    <td>14.46</td>
-    <td>22.64</td>
-    <td>61.18</td>
-    <td>3.92</td>
-    <td>13.50</td>
-    <td>20.53</td>
-    <td>59.34</td>
+    <td class="tg-c3ow">BEV-CV</td>
+    <td class="tg-c3ow">\xmark</td>
+    <td class="tg-c3ow">4.14</td>
+    <td class="tg-c3ow">14.46</td>
+    <td class="tg-c3ow">22.64</td>
+    <td class="tg-c3ow">61.18</td>
+    <td class="tg-c3ow">3.92</td>
+    <td class="tg-c3ow">13.50</td>
+    <td class="tg-c3ow">20.53</td>
+    <td class="tg-c3ow">59.34</td>
   </tr>
   <tr>
-    <td>GAL</td>
-    <td>approx</td>
-    <td>26.05</td>
-    <td>49.23</td>
-    <td>59.26</td>
-    <td>85.60</td>
-    <td>14.17</td>
-    <td>32.96</td>
-    <td>43.24</td>
-    <td>77.49</td>
+    <td class="tg-c3ow">GAL</td>
+    <td class="tg-c3ow">approx</td>
+    <td class="tg-c3ow">26.05</td>
+    <td class="tg-c3ow">49.23</td>
+    <td class="tg-c3ow">59.26</td>
+    <td class="tg-c3ow">85.60</td>
+    <td class="tg-c3ow">14.17</td>
+    <td class="tg-c3ow">32.96</td>
+    <td class="tg-c3ow">43.24</td>
+    <td class="tg-c3ow">77.49</td>
   </tr>
   <tr>
-    <td>DSM</td>
-    <td>\cmark</td>
-    <td>31.17</td>
-    <td>51.44</td>
-    <td>60.05</td>
-    <td>82.90</td>
-    <td>18.44</td>
-    <td>35.87</td>
-    <td>44.39</td>
-    <td>71.97</td>
+    <td class="tg-c3ow">DSM</td>
+    <td class="tg-c3ow">\cmark</td>
+    <td class="tg-c3ow">31.17</td>
+    <td class="tg-c3ow">51.44</td>
+    <td class="tg-c3ow">60.05</td>
+    <td class="tg-c3ow">82.90</td>
+    <td class="tg-c3ow">18.44</td>
+    <td class="tg-c3ow">35.87</td>
+    <td class="tg-c3ow">44.39</td>
+    <td class="tg-c3ow">71.97</td>
   </tr>
   <tr>
-    <td>L2LTR</td>
-    <td>\cmark</td>
-    <td>33.62</td>
-    <td>46.28</td>
-    <td>58.21</td>
-    <td>78.62</td>
-    <td>28.65</td>
-    <td>53.59</td>
-    <td>65.02</td>
-    <td>90.48</td>
+    <td class="tg-c3ow">L2LTR</td>
+    <td class="tg-c3ow">\cmark</td>
+    <td class="tg-c3ow">33.62</td>
+    <td class="tg-c3ow">46.28</td>
+    <td class="tg-c3ow">58.21</td>
+    <td class="tg-c3ow">78.62</td>
+    <td class="tg-c3ow">28.65</td>
+    <td class="tg-c3ow">53.59</td>
+    <td class="tg-c3ow">65.02</td>
+    <td class="tg-c3ow">90.48</td>
   </tr>
   <tr>
-    <td>TransGeo</td>
-    <td>\cmark</td>
-    <td>28.16</td>
-    <td>34.44</td>
-    <td>41.54</td>
-    <td>67.15</td>
-    <td>24.05</td>
-    <td>42.68</td>
-    <td>55.47</td>
-    <td>80.72</td>
+    <td class="tg-c3ow">TransGeo</td>
+    <td class="tg-c3ow">\cmark</td>
+    <td class="tg-c3ow">28.16</td>
+    <td class="tg-c3ow">34.44</td>
+    <td class="tg-c3ow">41.54</td>
+    <td class="tg-c3ow">67.15</td>
+    <td class="tg-c3ow">24.05</td>
+    <td class="tg-c3ow">42.68</td>
+    <td class="tg-c3ow">55.47</td>
+    <td class="tg-c3ow">80.72</td>
   </tr>
   <tr>
-    <td>GeoDTR</td>
-    <td>\cmark</td>
-    <td>26.76</td>
-    <td>53.65</td>
-    <td>65.35</td>
-    <td>92.12</td>
-    <td>15.38</td>
-    <td>37.09</td>
-    <td>49.40</td>
-    <td>86.38</td>
+    <td class="tg-c3ow">GeoDTR</td>
+    <td class="tg-c3ow">\cmark</td>
+    <td class="tg-c3ow">26.76</td>
+    <td class="tg-c3ow">53.65</td>
+    <td class="tg-c3ow">65.35</td>
+    <td class="tg-c3ow">92.12</td>
+    <td class="tg-c3ow">15.38</td>
+    <td class="tg-c3ow">37.09</td>
+    <td class="tg-c3ow">49.40</td>
+    <td class="tg-c3ow">86.38</td>
   </tr>
   <tr>
-    <td>BEV-CV</td>
-    <td>\cmark</td>
-    <td>45.79</td>
-    <td>75.85</td>
-    <td>83.97</td>
-    <td>96.76</td>
-    <td>37.85</td>
-    <td>69.00</td>
-    <td>78.52</td>
-    <td>95.03</td>
+    <td class="tg-7btt">BEV-CV</td>
+    <td class="tg-c3ow">\cmark</td>
+    <td class="tg-7btt">45.79</td>
+    <td class="tg-7btt">75.85</td>
+    <td class="tg-7btt">83.97</td>
+    <td class="tg-7btt">96.76</td>
+    <td class="tg-7btt">37.85</td>
+    <td class="tg-7btt">69.00</td>
+    <td class="tg-7btt">78.52</td>
+    <td class="tg-7btt">95.03</td>
   </tr>
 </tbody></table>
+        </div>
+    </foreignObject>
+</svg>
+
+
+
+
 
 
 ## ✒️ Citation   
