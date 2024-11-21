@@ -46,20 +46,6 @@ Cross-view image matching for geo-localisation is a challenging problem due to t
 
 ## BEV-CV: Evaluation
 
-
-
-<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
-    <foreignObject width="100%" height="100%">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
-</style>
 <table class="tg"><thead>
   <tr>
     <th class="tg-c3ow">Model</th>
@@ -82,7 +68,7 @@ Cross-view image matching for geo-localisation is a challenging problem due to t
   </tr>
   <tr>
     <td class="tg-c3ow">CVM</td>
-    <td class="tg-c3ow">\xmark</td>
+    <td class="tg-c3ow">❌</td>
     <td class="tg-c3ow">2.76</td>
     <td class="tg-c3ow">10.11</td>
     <td class="tg-c3ow">16.74</td>
@@ -94,7 +80,7 @@ Cross-view image matching for geo-localisation is a challenging problem due to t
   </tr>
   <tr>
     <td class="tg-c3ow">CVFT</td>
-    <td class="tg-c3ow">\xmark</td>
+    <td class="tg-c3ow">❌</td>
     <td class="tg-c3ow">4.80</td>
     <td class="tg-c3ow">14.84</td>
     <td class="tg-c3ow">23.18</td>
@@ -106,7 +92,7 @@ Cross-view image matching for geo-localisation is a challenging problem due to t
   </tr>
   <tr>
     <td class="tg-c3ow">DSM</td>
-    <td class="tg-c3ow">\xmark</td>
+    <td class="tg-c3ow">❌</td>
     <td class="tg-c3ow">16.19</td>
     <td class="tg-c3ow">31.44</td>
     <td class="tg-c3ow">39.85</td>
@@ -118,7 +104,7 @@ Cross-view image matching for geo-localisation is a challenging problem due to t
   </tr>
   <tr>
     <td class="tg-c3ow">L2LTR</td>
-    <td class="tg-c3ow">\xmark</td>
+    <td class="tg-c3ow">❌</td>
     <td class="tg-c3ow">26.92</td>
     <td class="tg-c3ow">50.49</td>
     <td class="tg-c3ow">60.41</td>
@@ -130,7 +116,7 @@ Cross-view image matching for geo-localisation is a challenging problem due to t
   </tr>
   <tr>
     <td class="tg-c3ow">TransGeo</td>
-    <td class="tg-c3ow">\xmark</td>
+    <td class="tg-c3ow">❌</td>
     <td class="tg-c3ow">30.12</td>
     <td class="tg-c3ow">54.18</td>
     <td class="tg-c3ow">63.96</td>
@@ -142,7 +128,7 @@ Cross-view image matching for geo-localisation is a challenging problem due to t
   </tr>
   <tr>
     <td class="tg-c3ow">GeoDTR</td>
-    <td class="tg-c3ow">\xmark</td>
+    <td class="tg-c3ow">❌</td>
     <td class="tg-c3ow">18.81</td>
     <td class="tg-c3ow">43.36</td>
     <td class="tg-c3ow">57.94</td>
@@ -154,7 +140,7 @@ Cross-view image matching for geo-localisation is a challenging problem due to t
   </tr>
   <tr>
     <td class="tg-c3ow">BEV-CV</td>
-    <td class="tg-c3ow">\xmark</td>
+    <td class="tg-c3ow">❌</td>
     <td class="tg-c3ow">15.17</td>
     <td class="tg-c3ow">33.91</td>
     <td class="tg-c3ow">45.33</td>
@@ -166,7 +152,7 @@ Cross-view image matching for geo-localisation is a challenging problem due to t
   </tr>
   <tr>
     <td class="tg-c3ow">GAL</td>
-    <td class="tg-c3ow">approx</td>
+    <td class="tg-c3ow">≈</td>
     <td class="tg-c3ow">22.54</td>
     <td class="tg-c3ow">44.36</td>
     <td class="tg-c3ow">54.17</td>
@@ -178,7 +164,7 @@ Cross-view image matching for geo-localisation is a challenging problem due to t
   </tr>
   <tr>
     <td class="tg-c3ow">DSM</td>
-    <td class="tg-c3ow">\cmark</td>
+    <td class="tg-c3ow">✅</td>
     <td class="tg-7btt">33.66</td>
     <td class="tg-c3ow">51.70</td>
     <td class="tg-c3ow">59.68</td>
@@ -190,7 +176,7 @@ Cross-view image matching for geo-localisation is a challenging problem due to t
   </tr>
   <tr>
     <td class="tg-c3ow">L2LTR</td>
-    <td class="tg-c3ow">\cmark</td>
+    <td class="tg-c3ow">✅</td>
     <td class="tg-c3ow">25.21</td>
     <td class="tg-c3ow">51.90</td>
     <td class="tg-c3ow">63.54</td>
@@ -202,7 +188,7 @@ Cross-view image matching for geo-localisation is a challenging problem due to t
   </tr>
   <tr>
     <td class="tg-c3ow">TransGeo</td>
-    <td class="tg-c3ow">\cmark</td>
+    <td class="tg-c3ow">✅</td>
     <td class="tg-c3ow">21.96</td>
     <td class="tg-c3ow">45.35</td>
     <td class="tg-c3ow">56.49</td>
@@ -214,7 +200,7 @@ Cross-view image matching for geo-localisation is a challenging problem due to t
   </tr>
   <tr>
     <td class="tg-c3ow">GeoDTR</td>
-    <td class="tg-c3ow">\cmark</td>
+    <td class="tg-c3ow">✅</td>
     <td class="tg-c3ow">15.21</td>
     <td class="tg-c3ow">39.32</td>
     <td class="tg-c3ow">52.27</td>
@@ -226,7 +212,7 @@ Cross-view image matching for geo-localisation is a challenging problem due to t
   </tr>
   <tr>
     <td class="tg-c3ow">BEV-CV</td>
-    <td class="tg-c3ow">\cmark</td>
+    <td class="tg-c3ow">✅</td>
     <td class="tg-c3ow">32.11</td>
     <td class="tg-7btt">58.36</td>
     <td class="tg-7btt">69.06</td>
@@ -244,7 +230,7 @@ Cross-view image matching for geo-localisation is a challenging problem due to t
   </tr>
   <tr>
     <td class="tg-c3ow">CVM</td>
-    <td class="tg-c3ow">\xmark</td>
+    <td class="tg-c3ow">❌</td>
     <td class="tg-c3ow">1.47</td>
     <td class="tg-c3ow">5.70</td>
     <td class="tg-c3ow">9.64</td>
@@ -256,7 +242,7 @@ Cross-view image matching for geo-localisation is a challenging problem due to t
   </tr>
   <tr>
     <td class="tg-c3ow">CVFT</td>
-    <td class="tg-c3ow">\xmark</td>
+    <td class="tg-c3ow">❌</td>
     <td class="tg-c3ow">1.85</td>
     <td class="tg-c3ow">6.28</td>
     <td class="tg-c3ow">10.54</td>
@@ -268,7 +254,7 @@ Cross-view image matching for geo-localisation is a challenging problem due to t
   </tr>
   <tr>
     <td class="tg-c3ow">DSM</td>
-    <td class="tg-c3ow">\xmark</td>
+    <td class="tg-c3ow">❌</td>
     <td class="tg-c3ow">18.11</td>
     <td class="tg-c3ow">33.34</td>
     <td class="tg-c3ow">40.94</td>
@@ -280,7 +266,7 @@ Cross-view image matching for geo-localisation is a challenging problem due to t
   </tr>
   <tr>
     <td class="tg-c3ow">L2LTR</td>
-    <td class="tg-c3ow">\xmark</td>
+    <td class="tg-c3ow">❌</td>
     <td class="tg-c3ow">13.07</td>
     <td class="tg-c3ow">30.38</td>
     <td class="tg-c3ow">41.00</td>
@@ -292,7 +278,7 @@ Cross-view image matching for geo-localisation is a challenging problem due to t
   </tr>
   <tr>
     <td class="tg-c3ow">TransGeo</td>
-    <td class="tg-c3ow">\xmark</td>
+    <td class="tg-c3ow">❌</td>
     <td class="tg-c3ow">10.75</td>
     <td class="tg-c3ow">28.22</td>
     <td class="tg-c3ow">37.51</td>
@@ -304,7 +290,7 @@ Cross-view image matching for geo-localisation is a challenging problem due to t
   </tr>
   <tr>
     <td class="tg-c3ow">GeoDTR</td>
-    <td class="tg-c3ow">\xmark</td>
+    <td class="tg-c3ow">❌</td>
     <td class="tg-c3ow">26.53</td>
     <td class="tg-c3ow">53.26</td>
     <td class="tg-c3ow">64.59</td>
@@ -316,7 +302,7 @@ Cross-view image matching for geo-localisation is a challenging problem due to t
   </tr>
   <tr>
     <td class="tg-c3ow">BEV-CV</td>
-    <td class="tg-c3ow">\xmark</td>
+    <td class="tg-c3ow">❌</td>
     <td class="tg-c3ow">4.14</td>
     <td class="tg-c3ow">14.46</td>
     <td class="tg-c3ow">22.64</td>
@@ -328,7 +314,7 @@ Cross-view image matching for geo-localisation is a challenging problem due to t
   </tr>
   <tr>
     <td class="tg-c3ow">GAL</td>
-    <td class="tg-c3ow">approx</td>
+    <td class="tg-c3ow">≈</td>
     <td class="tg-c3ow">26.05</td>
     <td class="tg-c3ow">49.23</td>
     <td class="tg-c3ow">59.26</td>
@@ -340,7 +326,7 @@ Cross-view image matching for geo-localisation is a challenging problem due to t
   </tr>
   <tr>
     <td class="tg-c3ow">DSM</td>
-    <td class="tg-c3ow">\cmark</td>
+    <td class="tg-c3ow">✅</td>
     <td class="tg-c3ow">31.17</td>
     <td class="tg-c3ow">51.44</td>
     <td class="tg-c3ow">60.05</td>
@@ -352,7 +338,7 @@ Cross-view image matching for geo-localisation is a challenging problem due to t
   </tr>
   <tr>
     <td class="tg-c3ow">L2LTR</td>
-    <td class="tg-c3ow">\cmark</td>
+    <td class="tg-c3ow">✅</td>
     <td class="tg-c3ow">33.62</td>
     <td class="tg-c3ow">46.28</td>
     <td class="tg-c3ow">58.21</td>
@@ -364,7 +350,7 @@ Cross-view image matching for geo-localisation is a challenging problem due to t
   </tr>
   <tr>
     <td class="tg-c3ow">TransGeo</td>
-    <td class="tg-c3ow">\cmark</td>
+    <td class="tg-c3ow">✅</td>
     <td class="tg-c3ow">28.16</td>
     <td class="tg-c3ow">34.44</td>
     <td class="tg-c3ow">41.54</td>
@@ -376,7 +362,7 @@ Cross-view image matching for geo-localisation is a challenging problem due to t
   </tr>
   <tr>
     <td class="tg-c3ow">GeoDTR</td>
-    <td class="tg-c3ow">\cmark</td>
+    <td class="tg-c3ow">✅</td>
     <td class="tg-c3ow">26.76</td>
     <td class="tg-c3ow">53.65</td>
     <td class="tg-c3ow">65.35</td>
@@ -388,7 +374,7 @@ Cross-view image matching for geo-localisation is a challenging problem due to t
   </tr>
   <tr>
     <td class="tg-7btt">BEV-CV</td>
-    <td class="tg-c3ow">\cmark</td>
+    <td class="tg-c3ow">✅</td>
     <td class="tg-7btt">45.79</td>
     <td class="tg-7btt">75.85</td>
     <td class="tg-7btt">83.97</td>
@@ -399,9 +385,6 @@ Cross-view image matching for geo-localisation is a challenging problem due to t
     <td class="tg-7btt">95.03</td>
   </tr>
 </tbody></table>
-        </div>
-    </foreignObject>
-</svg>
 
 
 
