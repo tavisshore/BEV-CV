@@ -58,7 +58,7 @@ Cross-view image matching for geo-localisation is a challenging problem due to t
 ```
 
 ## BEV-CV: Benchmark Results
-
+<div align="center">    
 <table class="tg"><thead>
   <tr>
     <th class="tg-c3ow">Model</th>
@@ -398,7 +398,7 @@ Cross-view image matching for geo-localisation is a challenging problem due to t
     <td class="tg-7btt">95.03</td>
   </tr>
 </tbody></table>
-
+</div>
 
 
 
