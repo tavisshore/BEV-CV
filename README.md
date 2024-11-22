@@ -76,8 +76,8 @@ Cross-view image matching for geo-localisation is a challenging problem due to t
   <tr>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow" colspan="4">CVUSA 90</td>
-    <td class="tg-c3ow" colspan="4">CVUSA 70</td>
+    <td class="tg-c3ow" colspan="4">CVUSA 90°</td>
+    <td class="tg-c3ow" colspan="4">CVUSA 70°</td>
   </tr>
   <tr>
     <td class="tg-c3ow">CVM</td>
@@ -238,8 +238,8 @@ Cross-view image matching for geo-localisation is a challenging problem due to t
   <tr>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow" colspan="4">CVACT 90</td>
-    <td class="tg-c3ow" colspan="4">CVACT 70</td>
+    <td class="tg-c3ow" colspan="4">CVACT 90°</td>
+    <td class="tg-c3ow" colspan="4">CVACT 70°</td>
   </tr>
   <tr>
     <td class="tg-c3ow">CVM</td>
