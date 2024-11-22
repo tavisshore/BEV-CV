@@ -10,8 +10,9 @@
  <a href="https://www.surrey.ac.uk/centre-vision-speech-signal-processing">Centre for Vision, Speech, and Signal Processing (CVSSP)</a>
 </p>
 <p align="middle">
- <a>University of Surrey, Guildford, GU2 7XH, United Kingdom [:pushpin:](https://maps.app.goo.gl/EQHj8t4ELxXd45R5A) </a>
+ <a>University of Surrey, Guildford, GU2 7XH, United Kingdom</a>
 </p>
+[:pushpin:](https://maps.app.goo.gl/EQHj8t4ELxXd45R5A)
 
 [![Paper](http://img.shields.io/badge/ArXiv-2312.15363-B31B1B.svg)](https://arxiv.org/abs/2312.15363)
 [![Conference](http://img.shields.io/badge/IROS-2024-4b44ce.svg)](http://iros2024-abudhabi.org/)
