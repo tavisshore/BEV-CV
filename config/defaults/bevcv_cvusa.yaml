@@ -1,0 +1,7 @@
+config: 'bevcv_cvusa'
+ex: 1
+epochs: 100
+fov: 90
+dataset: 'cvusa'
+log_name: 'cvusa_90'
+train_acc_every: 5
