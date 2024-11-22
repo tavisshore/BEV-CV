@@ -417,6 +417,7 @@ Cross-view image matching for geo-localisation is a challenging problem due to t
 ## 📗 Related Works
 
 ### 🍝 [SpaGBOL: Spatial-Graph-Based Orientated Localisation](https://github.com/tavisshore/SpaGBOL)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Paper](http://img.shields.io/badge/ArXiv-2409.15514-B31B1B.svg)](https://arxiv.org/abs/2409.15514)
 [![Conference](http://img.shields.io/badge/WACV-2025-4b44ce.svg)](https://wacv2025.thecvf.com/)
 [![Project Page](http://img.shields.io/badge/Project-Page-green)](https://tavisshore.co.uk/spagbol/)
