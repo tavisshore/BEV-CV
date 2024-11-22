@@ -34,7 +34,7 @@ Cross-view image matching for geo-localisation is a challenging problem due to t
 
 #### 🐍 Environment Setup
 ```
-
+conda env create -f requirements.yaml
 ```
 
 #### 🏭 Data Pre-Processing
