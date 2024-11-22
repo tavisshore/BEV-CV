@@ -405,6 +405,7 @@ Cross-view image matching for geo-localisation is a challenging problem due to t
 
 
 ## ✒️ Citation   
+If you find BEV-CV useful for your work please cite:
 ```
 @INPROCEEDINGS{bevcv,
     author={Shore, Tavis and Hadfield, Simon and Mendez, Oscar },
