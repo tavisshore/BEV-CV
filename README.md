@@ -427,6 +427,6 @@ If you find BEV-CV useful for your work please cite:
 [![License](https://img.shields.io/badge/license-MIT-blue)]()
 
 
-## Star History
+## ⭐ Star History
  
 [![Star History Chart](https://api.star-history.com/svg?repos=tavisshore/BEV-CV&type=Date)](https://star-history.com/#tavisshore/BEV-CV&Date)
