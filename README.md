@@ -428,7 +428,7 @@ If you find BEV-CV useful for your work please cite:
 
 
 ## Star History
-
+<div align="center">    
 [![Star History Chart](https://api.star-history.com/svg?repos=tavisshore/BEV-CV&type=Date)](https://star-history.com/#tavisshore/BEV-CV&Date)
-
+</div>
 
