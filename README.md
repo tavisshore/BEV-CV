@@ -430,5 +430,14 @@ If you find BEV-CV useful for your work please cite:
 
 
 ## ⭐ Star History
+
+<a href="https://star-history.com/#tavisshore/BEV-CV&Date" align="middle">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=tavisshore/BEV-CV&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=tavisshore/BEV-CV&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=tavisshore/BEV-CV&type=Date" />
+ </picture>
+</a>
+
+
  
-[![Star History Chart](https://api.star-history.com/svg?repos=tavisshore/BEV-CV&type=Date)](https://star-history.com/#tavisshore/BEV-CV&Date)
