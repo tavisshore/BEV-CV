@@ -22,7 +22,6 @@
 [![Visits Badge](https://badges.pufler.dev/visits/tavisshore/BEV-CV)](https://github.com/tavisshore/BEV-CV)
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/bev-cv-birds-eye-view-transform-for-cross/cross-view-geo-localisation-on-cvusa-70)](https://paperswithcode.com/sota/cross-view-geo-localisation-on-cvusa-70?p=bev-cv-birds-eye-view-transform-for-cross)
-
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/bev-cv-birds-eye-view-transform-for-cross/cross-view-geo-localisation-on-cvusa-90)](https://paperswithcode.com/sota/cross-view-geo-localisation-on-cvusa-90?p=bev-cv-birds-eye-view-transform-for-cross)
 
 ![bevcv_dark_mode](https://github.com/user-attachments/assets/159bceea-220d-4b12-a5aa-feb3baea7d4e#gh-dark-mode-only)
