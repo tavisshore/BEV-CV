@@ -20,6 +20,7 @@
 [![Project Page](http://img.shields.io/badge/Project-Page-green)](https://tavisshore.co.uk/bevcv/)
 [![License](https://img.shields.io/badge/license-MIT-blue)]()
 [![Visits Badge](https://badges.pufler.dev/visits/tavisshore/BEV-CV)](https://github.com/tavisshore/BEV-CV)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/bev-cv-birds-eye-view-transform-for-cross/cross-view-geo-localisation-on-cvusa-90)](https://paperswithcode.com/sota/cross-view-geo-localisation-on-cvusa-90?p=bev-cv-birds-eye-view-transform-for-cross)
 
 ![bevcv_dark_mode](https://github.com/user-attachments/assets/159bceea-220d-4b12-a5aa-feb3baea7d4e#gh-dark-mode-only)
 ![bevcv](https://github.com/user-attachments/assets/08c60b11-fd12-46ab-aec6-75a53b4d7b8d#gh-light-mode-only)
