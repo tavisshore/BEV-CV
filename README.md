@@ -433,7 +433,7 @@ If you find BEV-CV useful for your work please cite:
 
 ### 🕺 [PEnG: Pose-Enhanced Geo-Localisation ](https://github.com/tavisshore/PEnG)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![arxiv](https://img.shields.io/badge/cs.LG-XXXX-b31b1b?style=flat&logo=arxiv&logoColor=red)]()
+[![arxiv](https://img.shields.io/badge/cs.LG-2411.15742-b31b1b?style=flat&logo=arxiv&logoColor=red)]()
 [![Conference](http://img.shields.io/badge/RA--L-2025-4b44ce.svg)]()
 [![Project Page](http://img.shields.io/badge/Project-Page-green)](https://tavisshore.co.uk/peng/)
 [![GitHub](https://img.shields.io/badge/GitHub-PEnG-%23121011.svg?logo=github&logoColor=white)](https://github.com/tavisshore/peng)
