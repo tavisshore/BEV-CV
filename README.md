@@ -1,5 +1,3 @@
-# 🚧 Finalising Code
-
 <div align="center">    
  
 # 🦜🌍 BEV-CV: Birds-Eye-View Transform for Cross-View Geo-Localisation 📡🗺️
